@@ -1,3 +1,5 @@
+import "../deps/moment.js";
+var moment = window.HXLocal_moment;
 
 // --------------------------------------------------------------------------------------
 // Helper functions
